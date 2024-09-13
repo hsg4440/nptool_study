@@ -1,0 +1,2 @@
+add_library(NPSTPCDRUM SHARED  TPCDRUM.cc)
+target_link_libraries(NPSTPCDRUM NPSCore ${ROOT_LIBRARIES} ${Geant4_LIBRARIES} ${NPLib_LIBRARIES} -lNPTPCDRUM)

@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TPCDRUM
+ R = 0 mm  
+ THETA = 0 deg
+ PHI = 0 deg
+ Shape = Cylindrical
+ GasMaterial = He CO2
+ GasFraction = 90 10
+ GasPressure = 760
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

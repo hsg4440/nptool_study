@@ -1,0 +1,35 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Target
+ THICKNESS= 0.1 micrometer
+ ANGLE= 0 deg
+ RADIUS= 10 mm
+ MATERIAL= CD2
+ X= 0 mm 
+ Y= 0 mm
+ Z= 0 mm
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+CsI
+ THETA= 0 deg
+ PHI= 90 deg
+ R= 0 mm
+ X= 900 mm
+ Y= 0 mm
+ Z= 0 mm
+ Thickness= 30 mm
+ Shape= Square
+ FaceFront= 80 mm
+ FaceBack= 80 mm
+ Radius= 0 mm
+ %Scintillator= CsI_Scintillator
+ Scintillator= Cu
+ LeadThickness= 0 mm
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Avaible material:
+% BC400
+% BC452_2  : BC400 with 2% Pb
+% BC452_5  : BC400 with 5% Pb
+% BC452_10 : BC400 with 10% Pb

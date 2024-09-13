@@ -1,0 +1,8 @@
+{ decls }
+namespace NPL {  }
+
+[ libNPPhysics.so ]
+# List of selected classes
+class NPL::QFS
+class QFS
+header NPQFS.h

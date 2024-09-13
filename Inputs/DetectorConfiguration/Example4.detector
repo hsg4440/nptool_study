@@ -1,0 +1,12 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Actar
+ POS= 0 0 0 mm
+ Shape= cylind
+ Si= 0
+ VamosSi= 0
+ CsI= 1
+ BeamDump= 0
+ GasMaterial= He CO2
+ GasFraction= 90 10
+ Temperature= 295 kelvin
+ Pressure= 1 bar

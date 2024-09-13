@@ -1,0 +1,4 @@
+[ libNPInitialConditions.so ]
+# List of selected classes
+class TInitialConditions
+header TInitialConditions.h

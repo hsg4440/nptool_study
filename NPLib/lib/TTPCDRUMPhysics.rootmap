@@ -1,0 +1,4 @@
+[ libNPTPCDRUM.so ]
+# List of selected classes
+class TTPCDRUMPhysics
+header TTPCDRUMPhysics.h

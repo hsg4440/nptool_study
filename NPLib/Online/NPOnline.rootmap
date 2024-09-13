@@ -1,0 +1,10 @@
+{ decls }
+namespace NPL {  }
+
+[ libNPCore.so ]
+# List of selected classes
+class NPL::CanvasList
+class NPL::OnlineGUI
+header NPOnlineGUI.h
+# List of selected namespaces
+namespace NPL

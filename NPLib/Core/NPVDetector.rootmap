@@ -1,0 +1,9 @@
+{ decls }
+namespace NPL {  }
+
+[ libNPCore.so ]
+# List of selected classes
+class NPL::VDetector
+class NPL::VTreeReader
+header NPVDetector.h
+header NPVTreeReader.h

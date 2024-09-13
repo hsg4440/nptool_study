@@ -1,0 +1,9 @@
+{ decls }
+namespace NPL {  }
+
+[ libNPTrackReconstruction.so ]
+# List of selected classes
+class NPL::Ransac
+header NPRansac.h
+# List of selected namespaces
+namespace NPL

@@ -1,0 +1,74 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Target
+ Thickness= 18 micrometer
+ Radius=  30 mm
+ Material= CD2
+ Angle= 0 deg
+ X= 0 mm
+ Y= 0 mm 
+ Z= 0 mm
+%%%%%%%%   MUST 2  %%%%%%%% 
+%%%%%%% Telescope 1 %%%%%%%     
+M2Telescope       
+ X1_Y1= 13.00 102.79  145.98 mm
+ X1_Y128= 24.88 10.58 175.20 mm
+ X128_Y1= 103.08  102.90  110.06 mm
+ X128_Y128= 115.23  10.76 139.14 mm
+ SI=  1.00    
+ SILI=  0.00    
+ CSI= 1.00    
+ VIS= all   
+      
+%%%%%%%%%% Det 1 %%%%%%%%     
+SSSD
+ A= 17.61 9.85  104.11 mm
+ B= 64.48 9.85  85.31 mm
+ C= 58.66 56.29 70.79 mm
+ D= 11.79 56.29 89.69 mm
+ %      
+%%%%%%%%%% Det 2 %%%%%%%%     
+SSSD
+ A= -11.79  56.29 89.59 mm
+ B= -58.66  56.29 70.79 mm
+ C= -64.48  9.85  85.31 mm
+ D= -17.61  9.85  104.11 mm
+%     
+%%%%%%%%%% Det 3 %%%%%%%%     
+SSSD
+ A= -17.61  -9.85 104.11 mm
+ B= -64.48  -9.85 85.31 mm
+ C= -58.66  -56.29  70.79 mm
+ D= -11.79  -56.29  89.59 mm
+%     
+%%%%%%%%%% Det 4 %%%%%%%%     
+SSSD
+ A= 11.79 -56.29  89.59 mm
+ B= 58.66 -56.29  70.79 mm
+ C= 64.48 -9.85 85.31 mm
+ D= 17.61 -9.85 104.11 mm
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ScintillatorPlastic
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Plastic
+ X= 0 mm
+ Y= -15 mm
+ Z= 318 mm
+ Shape= Square
+ Height= 70 mm
+ Width= 40 mm
+ Thickness= 20 mm
+ Scintillator= BC400
+ LeadThickness= 0 mm
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Plastic
+ X= 0 mm
+ Y= -15 mm
+ Z= 343 mm
+ Thickness= 30 mm
+ Shape= Square
+ Height= 70 mm
+ Width= 40 mm
+ Scintillator= BC400
+ LeadThickness= 0 mm
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
