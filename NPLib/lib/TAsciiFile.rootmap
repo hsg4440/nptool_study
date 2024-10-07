@@ -1,4 +1,0 @@
-[ libNPCore.so ]
-# List of selected classes
-class TAsciiFile
-header TAsciiFile.h

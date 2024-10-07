@@ -1,9 +1,0 @@
-{ decls }
-namespace NPL {  }
-
-[ libNPPhysics.so ]
-# List of selected classes
-class NPL::Particle
-header NPParticle.h
-# List of selected namespaces
-namespace NPL

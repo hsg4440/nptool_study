@@ -1,8 +1,0 @@
-{ decls }
-namespace NPL {  }
-
-[ libNPPhysics.so ]
-# List of selected classes
-class NPL::Reaction
-class Reaction
-header NPReaction.h

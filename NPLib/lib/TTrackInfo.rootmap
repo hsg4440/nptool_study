@@ -1,4 +1,0 @@
-[ libNPTrackInfo.so ]
-# List of selected classes
-class TTrackInfo
-header TTrackInfo.h

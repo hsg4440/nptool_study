@@ -1,4 +1,0 @@
-[ libNPTPCDRUM.so ]
-# List of selected classes
-class TTPCDRUMData
-header TTPCDRUMData.h

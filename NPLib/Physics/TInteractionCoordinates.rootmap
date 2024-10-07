@@ -1,4 +1,0 @@
-[ libNPInteractionCoordinates.so ]
-# List of selected classes
-class TInteractionCoordinates
-header TInteractionCoordinates.h

@@ -1,4 +1,0 @@
-[ libNPFissionConditions.so ]
-# List of selected classes
-class TFissionConditions
-header TFissionConditions.h

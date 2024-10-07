@@ -1,9 +1,0 @@
-{ decls }
-namespace NPL {  }
-
-[ libNPCalibration.so ]
-# List of selected classes
-class NPL::CalibrationSource
-header NPCalibrationSource.h
-# List of selected namespaces
-namespace NPL

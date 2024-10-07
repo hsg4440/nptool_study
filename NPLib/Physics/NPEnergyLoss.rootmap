@@ -1,9 +1,0 @@
-{ decls }
-namespace NPL {  }
-
-[ libNPPhysics.so ]
-# List of selected classes
-class NPL::EnergyLoss
-header NPEnergyLoss.h
-# List of selected namespaces
-namespace NPL

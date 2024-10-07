@@ -1,7 +1,0 @@
-{ decls }
-namespace NPL {  }
-
-[ libNPCore.so ]
-# List of selected classes
-class NPL::DeltaSpectra
-header NPDeltaSpectra.h
