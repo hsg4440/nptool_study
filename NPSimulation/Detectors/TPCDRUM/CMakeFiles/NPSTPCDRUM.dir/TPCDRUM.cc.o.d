@@ -967,10 +967,6 @@ Detectors/TPCDRUM/CMakeFiles/NPSTPCDRUM.dir/TPCDRUM.cc.o: \
  /home/sghwang/library/geant4-v11.2.2/install/include/Geant4/G4MultiFunctionalDetector.hh \
  /home/sghwang/workspace/nptool/NPSimulation/Scorers/NPSHitsMap.hh \
  /home/sghwang/library/geant4-v11.2.2/install/include/Geant4/G4THitsCollection.hh \
- /home/sghwang/workspace/nptool/NPLib/include/NPImage.h \
- /home/sghwang/library/root_install/include/TASImage.h \
- /home/sghwang/library/root_install/include/TImage.h \
- /home/sghwang/library/root_install/include/TAttImage.h \
  /home/sghwang/workspace/nptool/NPLib/include/RootOutput.h \
  /home/sghwang/workspace/nptool/NPLib/include/TAsciiFile.h \
  /home/sghwang/library/root_install/include/TNamed.h \

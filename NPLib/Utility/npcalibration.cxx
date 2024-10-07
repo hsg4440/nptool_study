@@ -1,8 +1,8 @@
 // NPL
 #include"NPDetectorManager.h"
 #include"NPOptionManager.h"
-#include"NPVAnalysis.h"
-#include"NPAnalysisFactory.h"
+// #include"NPVAnalysis.h"
+// #include"NPAnalysisFactory.h"
 #include"RootInput.h"
 #include"RootHistogramsCalib.h"
 

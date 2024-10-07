@@ -175,30 +175,6 @@ NPCore/fast:
 	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/build
 .PHONY : NPCore/fast
 
-NPAnalysisFactory.o: NPAnalysisFactory.cxx.o
-.PHONY : NPAnalysisFactory.o
-
-# target to build an object file
-NPAnalysisFactory.cxx.o:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o
-.PHONY : NPAnalysisFactory.cxx.o
-
-NPAnalysisFactory.i: NPAnalysisFactory.cxx.i
-.PHONY : NPAnalysisFactory.i
-
-# target to preprocess a source file
-NPAnalysisFactory.cxx.i:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.i
-.PHONY : NPAnalysisFactory.cxx.i
-
-NPAnalysisFactory.s: NPAnalysisFactory.cxx.s
-.PHONY : NPAnalysisFactory.s
-
-# target to generate assembly for a file
-NPAnalysisFactory.cxx.s:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.s
-.PHONY : NPAnalysisFactory.cxx.s
-
 NPCalibrationManager.o: NPCalibrationManager.cxx.o
 .PHONY : NPCalibrationManager.o
 
@@ -367,30 +343,6 @@ NPElog.cxx.s:
 	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPElog.cxx.s
 .PHONY : NPElog.cxx.s
 
-NPImage.o: NPImage.cxx.o
-.PHONY : NPImage.o
-
-# target to build an object file
-NPImage.cxx.o:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPImage.cxx.o
-.PHONY : NPImage.cxx.o
-
-NPImage.i: NPImage.cxx.i
-.PHONY : NPImage.i
-
-# target to preprocess a source file
-NPImage.cxx.i:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPImage.cxx.i
-.PHONY : NPImage.cxx.i
-
-NPImage.s: NPImage.cxx.s
-.PHONY : NPImage.s
-
-# target to generate assembly for a file
-NPImage.cxx.s:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPImage.cxx.s
-.PHONY : NPImage.cxx.s
-
 NPInputParser.o: NPInputParser.cxx.o
 .PHONY : NPInputParser.o
 
@@ -486,30 +438,6 @@ NPSpectraServer.s: NPSpectraServer.cxx.s
 NPSpectraServer.cxx.s:
 	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.s
 .PHONY : NPSpectraServer.cxx.s
-
-NPVAnalysis.o: NPVAnalysis.cxx.o
-.PHONY : NPVAnalysis.o
-
-# target to build an object file
-NPVAnalysis.cxx.o:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o
-.PHONY : NPVAnalysis.cxx.o
-
-NPVAnalysis.i: NPVAnalysis.cxx.i
-.PHONY : NPVAnalysis.i
-
-# target to preprocess a source file
-NPVAnalysis.cxx.i:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.i
-.PHONY : NPVAnalysis.cxx.i
-
-NPVAnalysis.s: NPVAnalysis.cxx.s
-.PHONY : NPVAnalysis.s
-
-# target to generate assembly for a file
-NPVAnalysis.cxx.s:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Core/CMakeFiles/NPCore.dir/build.make Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.s
-.PHONY : NPVAnalysis.cxx.s
 
 NPVDetector.o: NPVDetector.cxx.o
 .PHONY : NPVDetector.o
@@ -764,9 +692,6 @@ help:
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
 	@echo "... NPCore"
-	@echo "... NPAnalysisFactory.o"
-	@echo "... NPAnalysisFactory.i"
-	@echo "... NPAnalysisFactory.s"
 	@echo "... NPCalibrationManager.o"
 	@echo "... NPCalibrationManager.i"
 	@echo "... NPCalibrationManager.s"
@@ -788,9 +713,6 @@ help:
 	@echo "... NPElog.o"
 	@echo "... NPElog.i"
 	@echo "... NPElog.s"
-	@echo "... NPImage.o"
-	@echo "... NPImage.i"
-	@echo "... NPImage.s"
 	@echo "... NPInputParser.o"
 	@echo "... NPInputParser.i"
 	@echo "... NPInputParser.s"
@@ -803,9 +725,6 @@ help:
 	@echo "... NPSpectraServer.o"
 	@echo "... NPSpectraServer.i"
 	@echo "... NPSpectraServer.s"
-	@echo "... NPVAnalysis.o"
-	@echo "... NPVAnalysis.i"
-	@echo "... NPVAnalysis.s"
 	@echo "... NPVDetector.o"
 	@echo "... NPVDetector.i"
 	@echo "... NPVDetector.s"

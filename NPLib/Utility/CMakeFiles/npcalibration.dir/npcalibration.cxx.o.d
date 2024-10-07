@@ -412,11 +412,6 @@ Utility/CMakeFiles/npcalibration.dir/npcalibration.cxx.o: \
  /home/sghwang/workspace/nptool/NPLib/Core/NPOptionManager.h \
  /usr/include/c++/11/set /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h \
- /home/sghwang/workspace/nptool/NPLib/Core/NPVAnalysis.h \
- /home/sghwang/workspace/nptool/NPLib/Core/NPDetectorManager.h \
- /home/sghwang/workspace/nptool/NPLib/Core/NPAnalysisFactory.h \
- /home/sghwang/workspace/nptool/NPLib/Core/NPVAnalysis.h \
- /home/sghwang/workspace/nptool/NPLib/Core/NPAnalysisFactory.h \
  /home/sghwang/workspace/nptool/NPLib/Core/RootInput.h \
  /home/sghwang/library/root_install/include/TTreeReaderValue.h \
  /home/sghwang/library/root_install/include/TTreeReaderArray.h \

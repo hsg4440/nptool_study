@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/sghwang/workspace/nptool/NPLib/Core/NPAnalysisFactory.cxx" "Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPCalibrationManager.cxx" "Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPCore.cxx" "Core/CMakeFiles/NPCore.dir/NPCore.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPCore.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPDeltaSpectra.cxx" "Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o.d"
@@ -16,12 +15,10 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/sghwang/workspace/nptool/NPLib/Core/NPDetectorFactory.cxx" "Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPDetectorManager.cxx" "Core/CMakeFiles/NPCore.dir/NPDetectorManager.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPDetectorManager.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPElog.cxx" "Core/CMakeFiles/NPCore.dir/NPElog.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPElog.cxx.o.d"
-  "/home/sghwang/workspace/nptool/NPLib/Core/NPImage.cxx" "Core/CMakeFiles/NPCore.dir/NPImage.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPImage.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPInputParser.cxx" "Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPOptionManager.cxx" "Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPRandom.cxx" "Core/CMakeFiles/NPCore.dir/NPRandom.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPRandom.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPSpectraServer.cxx" "Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o.d"
-  "/home/sghwang/workspace/nptool/NPLib/Core/NPVAnalysis.cxx" "Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPVDetector.cxx" "Core/CMakeFiles/NPCore.dir/NPVDetector.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPVDetector.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPVDetectorDict.cxx" "Core/CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.o.d"
   "/home/sghwang/workspace/nptool/NPLib/Core/NPVSpectra.cxx" "Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.o" "gcc" "Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.o.d"

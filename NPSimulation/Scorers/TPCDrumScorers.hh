@@ -3,7 +3,7 @@
 
 #include "G4VPrimitiveScorer.hh"
 #include "NPSHitsMap.hh"
-#include "NPImage.h"
+// #include "NPImage.h"
 #include <map>
 
 using namespace std;

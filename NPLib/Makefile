@@ -318,32 +318,6 @@ nptool-installer/fast:
 .PHONY : nptool-installer/fast
 
 #=============================================================================
-# Target rules for targets named npanalysis
-
-# Build rule for target.
-npanalysis: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 npanalysis
-.PHONY : npanalysis
-
-# fast build rule for target.
-npanalysis/fast:
-	$(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npanalysis.dir/build.make Utility/CMakeFiles/npanalysis.dir/build
-.PHONY : npanalysis/fast
-
-#=============================================================================
-# Target rules for targets named npreader
-
-# Build rule for target.
-npreader: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 npreader
-.PHONY : npreader
-
-# fast build rule for target.
-npreader/fast:
-	$(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npreader.dir/build.make Utility/CMakeFiles/npreader.dir/build
-.PHONY : npreader/fast
-
-#=============================================================================
 # Target rules for targets named nponline
 
 # Build rule for target.
@@ -419,10 +393,8 @@ help:
 	@echo "... NPTPCDRUM"
 	@echo "... NPTrackInfo"
 	@echo "... NPTrackReconstruction"
-	@echo "... npanalysis"
 	@echo "... npcalibration"
 	@echo "... nponline"
-	@echo "... npreader"
 	@echo "... npspectra_test"
 	@echo "... nptool-installer"
 .PHONY : help

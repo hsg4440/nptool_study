@@ -382,42 +382,5 @@ Scorers/CMakeFiles/NPSScorers.dir/TPCDrumScorers.cc.o: \
  /home/sghwang/workspace/nptool/NPSimulation/Scorers/NPSHitsMap.hh \
  /home/sghwang/library/geant4-v11.2.2/install/include/Geant4/G4THitsCollection.hh \
  /home/sghwang/library/geant4-v11.2.2/install/include/Geant4/globals.hh \
- /home/sghwang/workspace/nptool/NPLib/include/NPImage.h \
- /home/sghwang/library/root_install/include/TASImage.h \
- /home/sghwang/library/root_install/include/TImage.h \
- /home/sghwang/library/root_install/include/TNamed.h \
- /home/sghwang/library/root_install/include/TObject.h \
- /home/sghwang/library/root_install/include/Rtypes.h \
- /home/sghwang/library/root_install/include/RtypesCore.h \
- /home/sghwang/library/root_install/include/ROOT/RConfig.hxx \
- /home/sghwang/library/root_install/include/RVersion.h \
- /home/sghwang/library/root_install/include/ROOT/RVersion.hxx \
- /home/sghwang/library/root_install/include/RConfigure.h \
- /home/sghwang/library/root_install/include/DllImport.h \
- /home/sghwang/library/root_install/include/strtok.h \
- /home/sghwang/library/root_install/include/strlcpy.h \
- /usr/include/unistd.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
- /usr/include/x86_64-linux-gnu/bits/environments.h \
- /usr/include/x86_64-linux-gnu/bits/confname.h \
- /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
- /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
- /usr/include/x86_64-linux-gnu/bits/unistd.h \
- /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /usr/include/linux/close_range.h \
- /home/sghwang/library/root_install/include/snprintf.h \
- /home/sghwang/library/root_install/include/TGenericClassInfo.h \
- /home/sghwang/library/root_install/include/TSchemaHelper.h \
- /home/sghwang/library/root_install/include/TIsAProxy.h \
- /home/sghwang/library/root_install/include/TVirtualIsAProxy.h \
- /home/sghwang/library/root_install/include/TStorage.h \
- /home/sghwang/library/root_install/include/TVersionCheck.h \
- /home/sghwang/library/root_install/include/RVersion.h \
- /home/sghwang/library/root_install/include/TString.h \
- /home/sghwang/library/root_install/include/TMathBase.h \
- /home/sghwang/library/root_install/include/ROOT/TypeTraits.hxx \
- /usr/include/c++/11/cstdarg \
- /home/sghwang/library/root_install/include/TAttImage.h \
- /home/sghwang/library/root_install/include/GuiTypes.h \
- /home/sghwang/library/root_install/include/TVectorDfwd.h \
  /home/sghwang/library/geant4-v11.2.2/install/include/Geant4/G4UnitsTable.hh \
  /home/sghwang/library/geant4-v11.2.2/install/include/Geant4/G4UnitsTable.icc

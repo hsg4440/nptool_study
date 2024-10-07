@@ -49,6 +49,7 @@ alias npl='cd $NPTOOL/NPLib'
 alias nps='cd $NPTOOL/NPSimulation'
 ${CMD} npa_not_supported='npa is now longer supported, use npp instead'
 alias npa='echo $npa_not_supported'
+alias npo='cd $NPTOOL/Outputs/Simulation'
 
 
 # open a project

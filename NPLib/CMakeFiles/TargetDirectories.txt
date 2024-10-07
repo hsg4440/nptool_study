@@ -52,8 +52,6 @@
 /home/sghwang/workspace/nptool/NPLib/Online/CMakeFiles/install/local.dir
 /home/sghwang/workspace/nptool/NPLib/Online/CMakeFiles/install/strip.dir
 /home/sghwang/workspace/nptool/NPLib/Utility/CMakeFiles/nptool-installer.dir
-/home/sghwang/workspace/nptool/NPLib/Utility/CMakeFiles/npanalysis.dir
-/home/sghwang/workspace/nptool/NPLib/Utility/CMakeFiles/npreader.dir
 /home/sghwang/workspace/nptool/NPLib/Utility/CMakeFiles/nponline.dir
 /home/sghwang/workspace/nptool/NPLib/Utility/CMakeFiles/npcalibration.dir
 /home/sghwang/workspace/nptool/NPLib/Utility/CMakeFiles/npspectra_test.dir

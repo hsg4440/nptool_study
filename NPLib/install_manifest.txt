@@ -2,8 +2,6 @@
 /home/sghwang/workspace/nptool/NPLib/include/TTPCDRUMPhysics.h
 /home/sghwang/workspace/nptool/NPLib/include/TTPCDRUMSpectra.h
 /home/sghwang/workspace/nptool/NPLib/include/NPCore.h
-/home/sghwang/workspace/nptool/NPLib/include/NPVAnalysis.h
-/home/sghwang/workspace/nptool/NPLib/include/NPAnalysisFactory.h
 /home/sghwang/workspace/nptool/NPLib/include/NPRandom.h
 /home/sghwang/workspace/nptool/NPLib/include/NPCalibrationManager.h
 /home/sghwang/workspace/nptool/NPLib/include/NPOptionManager.h
@@ -21,7 +19,6 @@
 /home/sghwang/workspace/nptool/NPLib/include/NPDetectorFactory.h
 /home/sghwang/workspace/nptool/NPLib/include/NPSpectraServer.h
 /home/sghwang/workspace/nptool/NPLib/include/NPInputParser.h
-/home/sghwang/workspace/nptool/NPLib/include/NPImage.h
 /home/sghwang/workspace/nptool/NPLib/include/NPElog.h
 /home/sghwang/workspace/nptool/NPLib/include/NPDeltaSpectra.h
 /home/sghwang/workspace/nptool/NPLib/include/NPXmlParser.h
@@ -55,8 +52,6 @@
 /home/sghwang/workspace/nptool/NPLib/include/NPOnlineGUI.h
 /home/sghwang/workspace/nptool/NPLib/include/NPSpectraClient.h
 /home/sghwang/workspace/nptool/NPLib/bin/nptool-installer
-/home/sghwang/workspace/nptool/NPLib/bin/npanalysis
 /home/sghwang/workspace/nptool/NPLib/bin/nponline
-/home/sghwang/workspace/nptool/NPLib/bin/npreader
 /home/sghwang/workspace/nptool/NPLib/bin/npcalibration
 /home/sghwang/workspace/nptool/NPLib/include/NPCrossTalk.h

@@ -44,7 +44,7 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/sghwang/workspace/nptool/NPLib/bin/nptool-installer;/home/sghwang/workspace/nptool/NPLib/bin/npanalysis;/home/sghwang/workspace/nptool/NPLib/bin/nponline;/home/sghwang/workspace/nptool/NPLib/bin/npreader;/home/sghwang/workspace/nptool/NPLib/bin/npcalibration")
+   "/home/sghwang/workspace/nptool/NPLib/bin/nptool-installer;/home/sghwang/workspace/nptool/NPLib/bin/nponline;/home/sghwang/workspace/nptool/NPLib/bin/npcalibration")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
@@ -53,9 +53,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   endif()
   file(INSTALL DESTINATION "/home/sghwang/workspace/nptool/NPLib/bin" TYPE PROGRAM MESSAGE_LAZY FILES
     "/home/sghwang/workspace/nptool/NPLib/Utility/nptool-installer"
-    "/home/sghwang/workspace/nptool/NPLib/Utility/npanalysis"
     "/home/sghwang/workspace/nptool/NPLib/Utility/nponline"
-    "/home/sghwang/workspace/nptool/NPLib/Utility/npreader"
     "/home/sghwang/workspace/nptool/NPLib/Utility/npcalibration"
     )
 endif()

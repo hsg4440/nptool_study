@@ -109,38 +109,10 @@ Core/CMakeFiles/NPCore.dir/NPRandom.cxx.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NPCore.dir/NPRandom.cxx.s"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sghwang/workspace/nptool/NPLib/Core/NPRandom.cxx -o CMakeFiles/NPCore.dir/NPRandom.cxx.s
 
-Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
-Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o: Core/NPVAnalysis.cxx
-Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o"
-	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o -MF CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o.d -o CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPVAnalysis.cxx
-
-Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NPCore.dir/NPVAnalysis.cxx.i"
-	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sghwang/workspace/nptool/NPLib/Core/NPVAnalysis.cxx > CMakeFiles/NPCore.dir/NPVAnalysis.cxx.i
-
-Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NPCore.dir/NPVAnalysis.cxx.s"
-	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sghwang/workspace/nptool/NPLib/Core/NPVAnalysis.cxx -o CMakeFiles/NPCore.dir/NPVAnalysis.cxx.s
-
-Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
-Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o: Core/NPAnalysisFactory.cxx
-Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o"
-	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o -MF CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o.d -o CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPAnalysisFactory.cxx
-
-Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.i"
-	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sghwang/workspace/nptool/NPLib/Core/NPAnalysisFactory.cxx > CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.i
-
-Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.s"
-	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sghwang/workspace/nptool/NPLib/Core/NPAnalysisFactory.cxx -o CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.s
-
 Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o: Core/NPCalibrationManager.cxx
 Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o -MF CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o.d -o CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPCalibrationManager.cxx
 
 Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.i: cmake_force
@@ -154,7 +126,7 @@ Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.o: Core/NPOptionManager.cxx
 Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.o -MF CMakeFiles/NPCore.dir/NPOptionManager.cxx.o.d -o CMakeFiles/NPCore.dir/NPOptionManager.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPOptionManager.cxx
 
 Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.i: cmake_force
@@ -168,7 +140,7 @@ Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.o: Core/RootHistogramsCalib.cxx
 Core/CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object Core/CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object Core/CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.o -MF CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.o.d -o CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/RootHistogramsCalib.cxx
 
 Core/CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.i: cmake_force
@@ -182,7 +154,7 @@ Core/CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/RootOutput.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/RootOutput.cxx.o: Core/RootOutput.cxx
 Core/CMakeFiles/NPCore.dir/RootOutput.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object Core/CMakeFiles/NPCore.dir/RootOutput.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object Core/CMakeFiles/NPCore.dir/RootOutput.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/RootOutput.cxx.o -MF CMakeFiles/NPCore.dir/RootOutput.cxx.o.d -o CMakeFiles/NPCore.dir/RootOutput.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/RootOutput.cxx
 
 Core/CMakeFiles/NPCore.dir/RootOutput.cxx.i: cmake_force
@@ -196,7 +168,7 @@ Core/CMakeFiles/NPCore.dir/RootOutput.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/RootInput.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/RootInput.cxx.o: Core/RootInput.cxx
 Core/CMakeFiles/NPCore.dir/RootInput.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object Core/CMakeFiles/NPCore.dir/RootInput.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object Core/CMakeFiles/NPCore.dir/RootInput.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/RootInput.cxx.o -MF CMakeFiles/NPCore.dir/RootInput.cxx.o.d -o CMakeFiles/NPCore.dir/RootInput.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/RootInput.cxx
 
 Core/CMakeFiles/NPCore.dir/RootInput.cxx.i: cmake_force
@@ -210,7 +182,7 @@ Core/CMakeFiles/NPCore.dir/RootInput.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/TAsciiFile.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/TAsciiFile.cxx.o: Core/TAsciiFile.cxx
 Core/CMakeFiles/NPCore.dir/TAsciiFile.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object Core/CMakeFiles/NPCore.dir/TAsciiFile.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object Core/CMakeFiles/NPCore.dir/TAsciiFile.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/TAsciiFile.cxx.o -MF CMakeFiles/NPCore.dir/TAsciiFile.cxx.o.d -o CMakeFiles/NPCore.dir/TAsciiFile.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/TAsciiFile.cxx
 
 Core/CMakeFiles/NPCore.dir/TAsciiFile.cxx.i: cmake_force
@@ -224,7 +196,7 @@ Core/CMakeFiles/NPCore.dir/TAsciiFile.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/TAsciiFileDict.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/TAsciiFileDict.cxx.o: Core/TAsciiFileDict.cxx
 Core/CMakeFiles/NPCore.dir/TAsciiFileDict.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object Core/CMakeFiles/NPCore.dir/TAsciiFileDict.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object Core/CMakeFiles/NPCore.dir/TAsciiFileDict.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/TAsciiFileDict.cxx.o -MF CMakeFiles/NPCore.dir/TAsciiFileDict.cxx.o.d -o CMakeFiles/NPCore.dir/TAsciiFileDict.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/TAsciiFileDict.cxx
 
 Core/CMakeFiles/NPCore.dir/TAsciiFileDict.cxx.i: cmake_force
@@ -238,7 +210,7 @@ Core/CMakeFiles/NPCore.dir/TAsciiFileDict.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPDeltaSpectraDict.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPDeltaSpectraDict.cxx.o: Core/NPDeltaSpectraDict.cxx
 Core/CMakeFiles/NPCore.dir/NPDeltaSpectraDict.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object Core/CMakeFiles/NPCore.dir/NPDeltaSpectraDict.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object Core/CMakeFiles/NPCore.dir/NPDeltaSpectraDict.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPDeltaSpectraDict.cxx.o -MF CMakeFiles/NPCore.dir/NPDeltaSpectraDict.cxx.o.d -o CMakeFiles/NPCore.dir/NPDeltaSpectraDict.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPDeltaSpectraDict.cxx
 
 Core/CMakeFiles/NPCore.dir/NPDeltaSpectraDict.cxx.i: cmake_force
@@ -252,7 +224,7 @@ Core/CMakeFiles/NPCore.dir/NPDeltaSpectraDict.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPDetectorManager.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPDetectorManager.cxx.o: Core/NPDetectorManager.cxx
 Core/CMakeFiles/NPCore.dir/NPDetectorManager.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object Core/CMakeFiles/NPCore.dir/NPDetectorManager.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object Core/CMakeFiles/NPCore.dir/NPDetectorManager.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPDetectorManager.cxx.o -MF CMakeFiles/NPCore.dir/NPDetectorManager.cxx.o.d -o CMakeFiles/NPCore.dir/NPDetectorManager.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPDetectorManager.cxx
 
 Core/CMakeFiles/NPCore.dir/NPDetectorManager.cxx.i: cmake_force
@@ -266,7 +238,7 @@ Core/CMakeFiles/NPCore.dir/NPDetectorManager.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPVDetector.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPVDetector.cxx.o: Core/NPVDetector.cxx
 Core/CMakeFiles/NPCore.dir/NPVDetector.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object Core/CMakeFiles/NPCore.dir/NPVDetector.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object Core/CMakeFiles/NPCore.dir/NPVDetector.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPVDetector.cxx.o -MF CMakeFiles/NPCore.dir/NPVDetector.cxx.o.d -o CMakeFiles/NPCore.dir/NPVDetector.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPVDetector.cxx
 
 Core/CMakeFiles/NPCore.dir/NPVDetector.cxx.i: cmake_force
@@ -280,7 +252,7 @@ Core/CMakeFiles/NPCore.dir/NPVDetector.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.o: Core/NPVDetectorDict.cxx
 Core/CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object Core/CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object Core/CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.o -MF CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.o.d -o CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPVDetectorDict.cxx
 
 Core/CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.i: cmake_force
@@ -294,7 +266,7 @@ Core/CMakeFiles/NPCore.dir/NPVDetectorDict.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPVTreeReader.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPVTreeReader.cxx.o: Core/NPVTreeReader.cxx
 Core/CMakeFiles/NPCore.dir/NPVTreeReader.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object Core/CMakeFiles/NPCore.dir/NPVTreeReader.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object Core/CMakeFiles/NPCore.dir/NPVTreeReader.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPVTreeReader.cxx.o -MF CMakeFiles/NPCore.dir/NPVTreeReader.cxx.o.d -o CMakeFiles/NPCore.dir/NPVTreeReader.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPVTreeReader.cxx
 
 Core/CMakeFiles/NPCore.dir/NPVTreeReader.cxx.i: cmake_force
@@ -308,7 +280,7 @@ Core/CMakeFiles/NPCore.dir/NPVTreeReader.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.o: Core/NPVSpectra.cxx
 Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.o -MF CMakeFiles/NPCore.dir/NPVSpectra.cxx.o.d -o CMakeFiles/NPCore.dir/NPVSpectra.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPVSpectra.cxx
 
 Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.i: cmake_force
@@ -322,7 +294,7 @@ Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o: Core/NPDetectorFactory.cxx
 Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o -MF CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o.d -o CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPDetectorFactory.cxx
 
 Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.i: cmake_force
@@ -336,7 +308,7 @@ Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o: Core/NPSpectraServer.cxx
 Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o -MF CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o.d -o CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPSpectraServer.cxx
 
 Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.i: cmake_force
@@ -350,7 +322,7 @@ Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.o: Core/NPInputParser.cxx
 Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.o -MF CMakeFiles/NPCore.dir/NPInputParser.cxx.o.d -o CMakeFiles/NPCore.dir/NPInputParser.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPInputParser.cxx
 
 Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.i: cmake_force
@@ -361,24 +333,10 @@ Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NPCore.dir/NPInputParser.cxx.s"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sghwang/workspace/nptool/NPLib/Core/NPInputParser.cxx -o CMakeFiles/NPCore.dir/NPInputParser.cxx.s
 
-Core/CMakeFiles/NPCore.dir/NPImage.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
-Core/CMakeFiles/NPCore.dir/NPImage.cxx.o: Core/NPImage.cxx
-Core/CMakeFiles/NPCore.dir/NPImage.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object Core/CMakeFiles/NPCore.dir/NPImage.cxx.o"
-	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPImage.cxx.o -MF CMakeFiles/NPCore.dir/NPImage.cxx.o.d -o CMakeFiles/NPCore.dir/NPImage.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPImage.cxx
-
-Core/CMakeFiles/NPCore.dir/NPImage.cxx.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NPCore.dir/NPImage.cxx.i"
-	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sghwang/workspace/nptool/NPLib/Core/NPImage.cxx > CMakeFiles/NPCore.dir/NPImage.cxx.i
-
-Core/CMakeFiles/NPCore.dir/NPImage.cxx.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NPCore.dir/NPImage.cxx.s"
-	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sghwang/workspace/nptool/NPLib/Core/NPImage.cxx -o CMakeFiles/NPCore.dir/NPImage.cxx.s
-
 Core/CMakeFiles/NPCore.dir/NPElog.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPElog.cxx.o: Core/NPElog.cxx
 Core/CMakeFiles/NPCore.dir/NPElog.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object Core/CMakeFiles/NPCore.dir/NPElog.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object Core/CMakeFiles/NPCore.dir/NPElog.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPElog.cxx.o -MF CMakeFiles/NPCore.dir/NPElog.cxx.o.d -o CMakeFiles/NPCore.dir/NPElog.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPElog.cxx
 
 Core/CMakeFiles/NPCore.dir/NPElog.cxx.i: cmake_force
@@ -392,7 +350,7 @@ Core/CMakeFiles/NPCore.dir/NPElog.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o: Core/NPDeltaSpectra.cxx
 Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o -MF CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o.d -o CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPDeltaSpectra.cxx
 
 Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.i: cmake_force
@@ -406,7 +364,7 @@ Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.s: cmake_force
 Core/CMakeFiles/NPCore.dir/NPXmlParser.cxx.o: Core/CMakeFiles/NPCore.dir/flags.make
 Core/CMakeFiles/NPCore.dir/NPXmlParser.cxx.o: Core/NPXmlParser.cxx
 Core/CMakeFiles/NPCore.dir/NPXmlParser.cxx.o: Core/CMakeFiles/NPCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object Core/CMakeFiles/NPCore.dir/NPXmlParser.cxx.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object Core/CMakeFiles/NPCore.dir/NPXmlParser.cxx.o"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Core/CMakeFiles/NPCore.dir/NPXmlParser.cxx.o -MF CMakeFiles/NPCore.dir/NPXmlParser.cxx.o.d -o CMakeFiles/NPCore.dir/NPXmlParser.cxx.o -c /home/sghwang/workspace/nptool/NPLib/Core/NPXmlParser.cxx
 
 Core/CMakeFiles/NPCore.dir/NPXmlParser.cxx.i: cmake_force
@@ -421,8 +379,6 @@ Core/CMakeFiles/NPCore.dir/NPXmlParser.cxx.s: cmake_force
 NPCore_OBJECTS = \
 "CMakeFiles/NPCore.dir/NPCore.cxx.o" \
 "CMakeFiles/NPCore.dir/NPRandom.cxx.o" \
-"CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o" \
-"CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o" \
 "CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o" \
 "CMakeFiles/NPCore.dir/NPOptionManager.cxx.o" \
 "CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.o" \
@@ -439,7 +395,6 @@ NPCore_OBJECTS = \
 "CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o" \
 "CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o" \
 "CMakeFiles/NPCore.dir/NPInputParser.cxx.o" \
-"CMakeFiles/NPCore.dir/NPImage.cxx.o" \
 "CMakeFiles/NPCore.dir/NPElog.cxx.o" \
 "CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o" \
 "CMakeFiles/NPCore.dir/NPXmlParser.cxx.o"
@@ -449,8 +404,6 @@ NPCore_EXTERNAL_OBJECTS =
 
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPCore.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPRandom.cxx.o
-lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPVAnalysis.cxx.o
-lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPAnalysisFactory.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPCalibrationManager.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPOptionManager.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/RootHistogramsCalib.cxx.o
@@ -467,13 +420,12 @@ lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPVSpectra.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPDetectorFactory.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPSpectraServer.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPInputParser.cxx.o
-lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPImage.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPElog.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPDeltaSpectra.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/NPXmlParser.cxx.o
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/build.make
 lib/libNPCore.so: Core/CMakeFiles/NPCore.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX shared library ../lib/libNPCore.so"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sghwang/workspace/nptool/NPLib/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX shared library ../lib/libNPCore.so"
 	cd /home/sghwang/workspace/nptool/NPLib/Core && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/NPCore.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

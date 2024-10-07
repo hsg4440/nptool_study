@@ -176,34 +176,6 @@ nptool-installer/fast:
 .PHONY : nptool-installer/fast
 
 # Convenience name for target.
-Utility/CMakeFiles/npanalysis.dir/rule:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Utility/CMakeFiles/npanalysis.dir/rule
-.PHONY : Utility/CMakeFiles/npanalysis.dir/rule
-
-# Convenience name for target.
-npanalysis: Utility/CMakeFiles/npanalysis.dir/rule
-.PHONY : npanalysis
-
-# fast build rule for target.
-npanalysis/fast:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npanalysis.dir/build.make Utility/CMakeFiles/npanalysis.dir/build
-.PHONY : npanalysis/fast
-
-# Convenience name for target.
-Utility/CMakeFiles/npreader.dir/rule:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Utility/CMakeFiles/npreader.dir/rule
-.PHONY : Utility/CMakeFiles/npreader.dir/rule
-
-# Convenience name for target.
-npreader: Utility/CMakeFiles/npreader.dir/rule
-.PHONY : npreader
-
-# fast build rule for target.
-npreader/fast:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npreader.dir/build.make Utility/CMakeFiles/npreader.dir/build
-.PHONY : npreader/fast
-
-# Convenience name for target.
 Utility/CMakeFiles/nponline.dir/rule:
 	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Utility/CMakeFiles/nponline.dir/rule
 .PHONY : Utility/CMakeFiles/nponline.dir/rule
@@ -244,30 +216,6 @@ npspectra_test: Utility/CMakeFiles/npspectra_test.dir/rule
 npspectra_test/fast:
 	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npspectra_test.dir/build.make Utility/CMakeFiles/npspectra_test.dir/build
 .PHONY : npspectra_test/fast
-
-npanalysis.o: npanalysis.cxx.o
-.PHONY : npanalysis.o
-
-# target to build an object file
-npanalysis.cxx.o:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npanalysis.dir/build.make Utility/CMakeFiles/npanalysis.dir/npanalysis.cxx.o
-.PHONY : npanalysis.cxx.o
-
-npanalysis.i: npanalysis.cxx.i
-.PHONY : npanalysis.i
-
-# target to preprocess a source file
-npanalysis.cxx.i:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npanalysis.dir/build.make Utility/CMakeFiles/npanalysis.dir/npanalysis.cxx.i
-.PHONY : npanalysis.cxx.i
-
-npanalysis.s: npanalysis.cxx.s
-.PHONY : npanalysis.s
-
-# target to generate assembly for a file
-npanalysis.cxx.s:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npanalysis.dir/build.make Utility/CMakeFiles/npanalysis.dir/npanalysis.cxx.s
-.PHONY : npanalysis.cxx.s
 
 npcalibration.o: npcalibration.cxx.o
 .PHONY : npcalibration.o
@@ -316,30 +264,6 @@ nponline.s: nponline.cxx.s
 nponline.cxx.s:
 	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/nponline.dir/build.make Utility/CMakeFiles/nponline.dir/nponline.cxx.s
 .PHONY : nponline.cxx.s
-
-npreader.o: npreader.cxx.o
-.PHONY : npreader.o
-
-# target to build an object file
-npreader.cxx.o:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npreader.dir/build.make Utility/CMakeFiles/npreader.dir/npreader.cxx.o
-.PHONY : npreader.cxx.o
-
-npreader.i: npreader.cxx.i
-.PHONY : npreader.i
-
-# target to preprocess a source file
-npreader.cxx.i:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npreader.dir/build.make Utility/CMakeFiles/npreader.dir/npreader.cxx.i
-.PHONY : npreader.cxx.i
-
-npreader.s: npreader.cxx.s
-.PHONY : npreader.s
-
-# target to generate assembly for a file
-npreader.cxx.s:
-	cd /home/sghwang/workspace/nptool/NPLib && $(MAKE) $(MAKESILENT) -f Utility/CMakeFiles/npreader.dir/build.make Utility/CMakeFiles/npreader.dir/npreader.cxx.s
-.PHONY : npreader.cxx.s
 
 npspectra_test.o: npspectra_test.cxx.o
 .PHONY : npspectra_test.o
@@ -401,24 +325,16 @@ help:
 	@echo "... install/strip"
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
-	@echo "... npanalysis"
 	@echo "... npcalibration"
 	@echo "... nponline"
-	@echo "... npreader"
 	@echo "... npspectra_test"
 	@echo "... nptool-installer"
-	@echo "... npanalysis.o"
-	@echo "... npanalysis.i"
-	@echo "... npanalysis.s"
 	@echo "... npcalibration.o"
 	@echo "... npcalibration.i"
 	@echo "... npcalibration.s"
 	@echo "... nponline.o"
 	@echo "... nponline.i"
 	@echo "... nponline.s"
-	@echo "... npreader.o"
-	@echo "... npreader.i"
-	@echo "... npreader.s"
 	@echo "... npspectra_test.o"
 	@echo "... npspectra_test.i"
 	@echo "... npspectra_test.s"
