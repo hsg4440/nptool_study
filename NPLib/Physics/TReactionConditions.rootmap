@@ -1,0 +1,4 @@
+[ libNPReactionConditions.so ]
+# List of selected classes
+class TReactionConditions
+header TReactionConditions.h

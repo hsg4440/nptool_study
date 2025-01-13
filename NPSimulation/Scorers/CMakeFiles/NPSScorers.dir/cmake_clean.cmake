@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "../lib/libNPSScorers.pdb"
+  "../lib/libNPSScorers.so"
+  "CMakeFiles/NPSScorers.dir/CalorimeterScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/CalorimeterScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/CylinderTPCScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/CylinderTPCScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/DSSDScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/DSSDScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/DriftChamberScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/DriftChamberScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/DriftElectronScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/DriftElectronScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/GaseousDetectorScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/GaseousDetectorScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/GeScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/GeScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/InteractionScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/InteractionScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/MDMScorer.cc.o"
+  "CMakeFiles/NPSScorers.dir/MDMScorer.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/NeutronDetectorScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/NeutronDetectorScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/ObsoleteGeneralScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/ObsoleteGeneralScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/PhotoDiodeScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/PhotoDiodeScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/PlasticBar.cc.o"
+  "CMakeFiles/NPSScorers.dir/PlasticBar.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/ProcessScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/ProcessScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/SiliconScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/SiliconScorers.cc.o.d"
+  "CMakeFiles/NPSScorers.dir/TPCScorers.cc.o"
+  "CMakeFiles/NPSScorers.dir/TPCScorers.cc.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/NPSScorers.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

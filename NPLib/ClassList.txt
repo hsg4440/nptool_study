@@ -1,0 +1,3 @@
+TPCDRUM libNPTPCDRUM.so
+asd libNPasd.so
+newDet libNPnewDet.so

@@ -1,0 +1,10 @@
+{ decls }
+namespace NPL {  }
+
+[ libNPTrackReconstruction.so ]
+# List of selected classes
+class NPL::LinearCluster3D
+class NPL::LinearRansac3D
+header NPLinearRansac3D.h
+# List of selected namespaces
+namespace NPL

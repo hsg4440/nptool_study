@@ -1,0 +1,8 @@
+{ decls }
+namespace NPL {  }
+
+[ libNPPhysics.so ]
+# List of selected classes
+class NPL::PhaseSpace
+class PhaseSpace
+header NPPhaseSpace.h

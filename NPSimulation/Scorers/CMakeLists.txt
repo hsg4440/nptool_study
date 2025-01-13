@@ -1,6 +1,2 @@
-file(GLOB SOURCES "./*.cc")
-file(GLOB HEADERS "./*.hh")
-
-add_library(NPSScorers SHARED ${SOURCES} ${HEADERS})
-
+add_library(NPSScorers SHARED CylinderTPCScorers.cc DriftChamberScorers.cc NPSHitsMap.hh CalorimeterScorers.cc InteractionScorers.cc DSSDScorers.cc SiliconScorers.cc PhotoDiodeScorers.cc ObsoleteGeneralScorers.cc DriftElectronScorers.cc TPCScorers.cc MDMScorer.cc NeutronDetectorScorers.cc ProcessScorers.cc PlasticBar.cc GeScorers.cc GaseousDetectorScorers.cc)
 target_link_libraries(NPSScorers ${ROOT_LIBRARIES} ${Geant4_LIBRARIES} ${NPLib_LIBRARIES} -lNPInitialConditions -lNPInteractionCoordinates)

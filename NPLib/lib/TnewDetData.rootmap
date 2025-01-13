@@ -1,0 +1,4 @@
+[ libNPnewDet.so ]
+# List of selected classes
+class TnewDetData
+header TnewDetData.h

@@ -1,0 +1,4 @@
+[ libNPasd.so ]
+# List of selected classes
+class TasdPhysics
+header TasdPhysics.h

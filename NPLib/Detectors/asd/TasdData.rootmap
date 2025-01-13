@@ -1,0 +1,4 @@
+[ libNPasd.so ]
+# List of selected classes
+class TasdData
+header TasdData.h
